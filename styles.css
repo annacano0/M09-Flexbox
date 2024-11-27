@@ -1,0 +1,13 @@
+*{
+    margin: 0em;
+    padding: 0em;
+}
+
+.icon{
+    width: 1em;
+}
+
+img{
+    max-width: 4em;
+    border-radius: 50%;
+}
